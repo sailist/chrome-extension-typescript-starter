@@ -28,6 +28,7 @@
     "copy-webpack-plugin": "^9.0.1",
     "glob": "^7.1.6",
     "jest": "^27.2.1",
+    "pdfjs-dist": "^3.4.120",
     "prettier": "^2.2.1",
     "rimraf": "^3.0.2 ",
     "ts-jest": "^27.0.5",
